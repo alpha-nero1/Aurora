@@ -1,0 +1,38 @@
+An insect is a bug with 6 legs.
+A spider is a bug with 8 legs.
+A fly comes from larvae.
+Worms live underground.
+Birds have feathers.
+Birds fly in the air.
+Fish swim in the sea.
+Fish have fins.
+Giraffes have long necks.
+Animals live in the zoo.
+Monkeys have opposable thumbs.
+Dogs have paws.
+Cats have paws.
+Cats have whiskers.
+Dogs have tails.
+Cats have tails.
+Cows have udders.
+Cows make milk.
+Lizards can stick to walls.
+Leeches drink blood.
+Elephants have trunks.
+Rhinoserous have a big horn.
+Hipopautamus are heavy.
+Tigers have claws.
+Eagles have wings.
+An eagle is a bird.
+A beagle is a king of dog.
+A fox hound is a kind of dog.
+A budgie is a kind of bird.
+A butterfly has pretty wings.
+Caterpillars turn into butterflies.
+Crockadiles have a strong bite.
+Sharks have many sharp teeth.
+Crabs have claws.
+Mosquitos bite.
+A puddle is a tiny body of water.
+A sea is the largest body of water.
+People live in houses.
